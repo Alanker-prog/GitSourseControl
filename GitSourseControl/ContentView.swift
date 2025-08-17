@@ -42,7 +42,7 @@ struct ContentView: View {
             
         }
         
-        Button("Click me") {
+        Button("Подпишьсь сейчас") {
             
         }
         .background(.red)
