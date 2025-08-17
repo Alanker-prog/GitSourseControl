@@ -6,7 +6,26 @@
 //
 
 import SwiftUI
-
+/*
+ Как писать комиты правильно
+ 
+ Новая функция:
+ [Function] и описание функции
+ 
+ Баг в продакшене:
+ [Pathc] и описания пути
+ 
+ Баг не в продакщене:
+ [Bug] и описание бага
+ 
+ Повседневные изменения:
+ [Clean] и описание изминения
+ 
+ Выпуск продукта:
+ [Release] и описание выпуска продукта
+ 
+ 
+ */
 struct ContentView: View {
     var body: some View {
         VStack {
@@ -20,6 +39,7 @@ struct ContentView: View {
         Button("Click me") {
             
         }
+        .background(.red)
     }
 }
 
