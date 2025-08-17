@@ -11,6 +11,8 @@ struct HomeView: View {
     var body: some View {
         VStack {
             Text("Screen two")
+            Text("Screen two")
+            Text("Screen two")
         }
     }
 }
