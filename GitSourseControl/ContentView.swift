@@ -41,6 +41,7 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Git Sourse Control")
+            Text("New text")
         }
         .padding()
         
