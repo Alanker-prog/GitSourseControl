@@ -44,7 +44,7 @@ struct ContentView: View {
         }
         .padding()
         
-        Button("Подписка") {
+        Button("Подписка Apple") {
             
         }
         
